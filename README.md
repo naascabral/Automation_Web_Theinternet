@@ -1,9 +1,5 @@
 # Cucumber
 
-Getting Started
-===============
-
-(Bundler, Cucumber, Capybara, Siteprism, RSpec)
 
 ### Installation
 
